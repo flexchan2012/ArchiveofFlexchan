@@ -11,6 +11,8 @@
 
 Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & Ti Lung 's characters, may contain some other Shaw Bro's staffs.
 
+## 更新日志 Update log
+
 > 2022-12-17新增6个emoji,240*240 gif格式：
 >
 > ​	张彻-给你红包，
@@ -34,14 +36,24 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 > ​	大决斗-唐人杰胸襟开阔，
 >
 > ​	魔剑侠情-阿飞醉酒/阿飞醉奶
+>
+> 2022-12-22 新增：
+>
+> ​	RPS 贴贴
+>
+> ​	快活林 - 武松，蒙混过关
+>
+> ​	无名英雄 - 万大哥（谷峰），坚持住
 
-## 邵氏演职员
+## 邵氏演职员Shaw Brothers' Staffs
 
 ![给你红包](太湖同人表情包/给你红包.gif)
 
 张彻 Chang Cheh  #恶客 #惡客 #The Angry Guest
 
 > @蓝花花 点菜
+
+![贴贴](太湖同人表情包/贴贴.gif) RPS,贴贴
 
 ---
 
@@ -92,11 +104,13 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ![v我50](太湖同人表情包/v我50.gif)![我拿住你](太湖同人表情包/我拿住你.gif)
 
-v我50，我拿住你
+马新贻&张汶祥 ，v我50，我拿住你
 
 ## 新独臂刀The New One-Armed Swordsman
 
 ![剁手](太湖同人表情包/剁手.gif)![留一手](太湖同人表情包/留一手.gif)![剁手无文案](太湖同人表情包/剁手无文案.gif)
+
+雷力的手
 
 ## 大决斗The Duel
 
@@ -105,3 +119,11 @@ v我50，我拿住你
 ## 双侠The Deadly Duo
 
 ![爬行](太湖同人表情包/爬行.gif)鲍廷天，光明地爬行
+
+## 无名英雄 Mo Meng Ying Hung / The Anonymous Heroes
+
+![坚持住](太湖同人表情包/坚持住.gif)万大哥（谷峰Guk Fung 饰)，坚持住！
+
+## 快活林The Delightful Forest
+
+![蒙混过关](太湖同人表情包/蒙混过关.gif)武松，蒙~~萌~~混过关
