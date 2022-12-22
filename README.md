@@ -44,6 +44,8 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 > ​	快活林 - 武松，蒙混过关
 >
 > ​	无名英雄 - 万大哥（谷峰），坚持住
+>
+> ​	十三太保 - 李克用,哈哈哈
 
 ## 邵氏演职员Shaw Brothers' Staffs
 
@@ -77,7 +79,7 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ## 倾国倾城The Empress Dowager
 
-![蟹蟹](太湖同人表情包/蟹蟹.gif)光绪&寇连材
+![蟹蟹](太湖同人表情包/蟹蟹.gif)光绪&寇连材，蟹蟹/谢谢
 
 > 👇脑洞来自湖友[@幽儿就是这个幽儿](https://weibo.com/u/6035470671)：
 >
@@ -90,6 +92,10 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 ![千杯不倒](太湖同人表情包/千杯不倒.gif)李存孝，千杯不倒
 
 ![借奶浇愁](太湖同人表情包/借奶浇愁.gif)李存孝，~~借奶浇愁~~
+
+![哈哈哈](太湖同人表情包/哈哈哈.gif)李克用（谷峰Guk Fung饰)，哈哈哈哈哈
+
+![埋熊](太湖同人表情包/埋熊.gif)李存孝和史敬思熊熊, 埋熊~~胸~~
 
 ## 多情剑客无情剑The Sentimental Swordsman & 魔剑侠情Return of the Sentimental Swordsman
 
@@ -122,7 +128,17 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ## 无名英雄 Mo Meng Ying Hung / The Anonymous Heroes
 
-![坚持住](太湖同人表情包/坚持住.gif)万大哥（谷峰Guk Fung 饰)，坚持住！
+![坚持住](太湖同人表情包/坚持住.gif) ![坚持住动态](太湖同人表情包/坚持住动态.gif)
+
+👆动态gif我设的是只播放一次，但动图表情在微信还是循环播放的
+
+万大哥（谷峰Guk Fung 饰)，坚持住！
+
+> 👇湖友@随时查询本人精神状态
+>
+>  谷爷爷：别管我了
+>
+> me：不行，一世为父，世世为父
 
 ## 快活林The Delightful Forest
 
