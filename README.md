@@ -13,13 +13,25 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ## 更新日志 Update log
 
-> 2022-12-24 新增：
+> 2022-12-25：
 >
-> ​	新独 - 封俊杰，裂开
+> ​	无名英雄 - 铁虎，行车不规范
+>
+> ​	大决斗 - 江南浪子，健康的声音
+>
+> ​	刺马 - 马新贻，沉迷学习
+>
+> ---
+>
+> 2022-12-24 ：
+>
+> ​	新独臂刀 - 封俊杰，裂开
 >
 > ​	刺马 - 张汶祥，自闭
 >
-> 2022-12-22 新增：
+> ---
+>
+> 2022-12-22：
 >
 > ​	RPS 贴贴
 >
@@ -33,9 +45,15 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 >
 > ---
 >
-> 2022-12-18新增：
+> 2022-12-19 :
 >
-> ​	新独-剁手&留一手&剁手无文案，
+> ​	多情剑客无情剑 - 李寻欢，健康的声音
+>
+> ---
+>
+> 2022-12-18：
+>
+> ​	新独臂刀-剁手&留一手&剁手无文案，
 >
 > ​	刺马-v我50&我拿住你，
 >
@@ -43,7 +61,7 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 >
 > ​	大决斗-唐人杰胸襟开阔，
 >
-> ​	魔剑侠情-阿飞醉酒/阿飞醉奶
+> ​	魔剑侠情-阿飞醉酒/阿飞醉奶/不得不喝
 >
 > ---
 >
@@ -131,6 +149,10 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 >
 > 马新贻想报仇，让王羽放学后别走，结果堵到张汶祥
 
+![沉迷学习](太湖同人表情包/沉迷学习.gif) 马新贻，沉迷学习
+
+
+
 ## 新独臂刀The New One-Armed Swordsman
 
 ![剁手](太湖同人表情包/剁手.gif)![留一手](太湖同人表情包/留一手.gif)![剁手无文案](太湖同人表情包/剁手无文案.gif)
@@ -145,6 +167,8 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ![胸襟开阔](太湖同人表情包/胸襟开阔.gif)唐人杰，胸襟开阔
 
+![健康的声音2](太湖同人表情包/健康的声音2.gif) 江南浪子，咳咳咳（发出~~不~~健康的声音)
+
 ## 双侠The Deadly Duo
 
 ![爬行](太湖同人表情包/爬行.gif)鲍廷天，光明地爬行
@@ -153,7 +177,7 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ![坚持住](太湖同人表情包/坚持住.gif) ![坚持住动态](太湖同人表情包/坚持住动态.gif)
 
-👆动态gif我设的是只播放一次，但动图表情在微信还是循环播放的
+👆动态gif设的是只播放一次，但动图表情在微信还是循环播放的
 
 万大哥（谷峰Guk Fung 饰)，坚持住！
 
@@ -162,6 +186,12 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 >  谷爷爷：别管我了
 >
 > me：不行，一世为父，世世为父
+
+![行车不规范](太湖同人表情包/行车不规范.gif)![行车不规范无字](太湖同人表情包/行车不规范无字.gif)
+
+铁虎
+
+行车~~不~~要规范，开心好几年
 
 ## 快活林The Delightful Forest
 
