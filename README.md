@@ -7,6 +7,8 @@
 
 # 同人表情包
 
+💡[打包合集下载](https://github.com/flexchan2012/ArchiveofFlexchan/releases/)： 选择TaiHuFanficEmojis命名的压缩包即可
+
 狄姜狄为主，少量邵氏其他演职员。大图之后会汇总到幼儿园系列
 
 Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & Ti Lung 's characters, may contain some other Shaw Bro's staffs.
