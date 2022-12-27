@@ -7,7 +7,9 @@
 
 # 同人表情包
 
-💡[打包合集下载](https://github.com/flexchan2012/ArchiveofFlexchan/releases/)： 选择TaiHuFanficEmojis命名的压缩包即可
+![头图](太湖同人表情包/头图.png)
+
+💡[打包合集下载](https://github.com/flexchan2012/ArchiveofFlexchan/releases/)： 选择TaiHuFanficEmojis命名，时间最新的压缩包即可
 
 狄姜狄为主，少量邵氏其他演职员。大图之后会汇总到幼儿园系列
 
@@ -15,6 +17,14 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ## 更新日志 Update log
 
+> 2022-12-27:
+>
+> ​	新独臂刀 - 头图
+>
+> ​	大海盗 - 张保仔，思考鱼生
+>
+> ​	猫头鹰 - 范士林，御前带刀侍卫
+>
 > 2022-12-25：
 >
 > ​	无名英雄 - 铁虎，行车不规范
@@ -95,6 +105,8 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 ## 大海盗 The Pirate
 
  ![靓仔冒泡](太湖同人表情包/靓仔冒泡.gif)张保仔，靓仔冒泡
+
+![思考鱼生](太湖同人表情包/思考鱼生.gif)张保仔，思考~~顺德鱼生
 
 > 鱼尾巴设定来自@阿呆民的[《我的巨型美人鱼》](https://poipiku.com/3826948/7457177.html)虎鲸美人鱼
 
@@ -198,3 +210,7 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 ## 快活林The Delightful Forest
 
 ![蒙混过关](太湖同人表情包/蒙混过关.gif)武松，蒙~~萌~~混过关
+
+## 猫头鹰
+
+![范士林](太湖同人表情包/范士林.gif)给covid19中招的小伙伴
