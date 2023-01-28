@@ -49,6 +49,12 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 
 ## 更新日志 Update log
 
+> 2023-01-28：
+>
+> ​	生财有道 - 邵逸夫
+>
+> ​	恭喜发财 - 范士林
+>
 > 2023-01-07:
 >
 > ​	白玉老虎 - 唐玉
@@ -127,6 +133,10 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 >
 
 ## 邵氏演职员Shaw Brothers' Staffs
+
+
+
+![生财有道](太湖同人表情包/生财有道.gif)邵逸夫 Run Run shaw
 
 ![给你红包](太湖同人表情包/给你红包.gif)
 
@@ -250,6 +260,8 @@ Shaw Brothers' Movie fanfic emojis, 240*240 gif. Mainly include David Chiang & T
 ## 猫头鹰
 
 ![范士林](太湖同人表情包/范士林.gif)给covid19中招的小伙伴
+
+![恭喜发财](太湖同人表情包/恭喜发财.gif) 恭喜发财
 
 ## 白玉老虎
 
